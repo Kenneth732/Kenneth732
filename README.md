@@ -53,8 +53,8 @@ Explore my repositories to discover more of my work!
 
 I'm always interested in discussing new opportunities and collaborations. Feel free to reach out to me via:
 
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- 📫 Email: [your-email@example.com](mailto:kenabdi21@gmail.com)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kenneth-mburu-525863208/)
+- 🐦 Twitter: [Your Twitter Handle](https://twitter.com/Kenneth57216071)
 
 Let's build something amazing together!

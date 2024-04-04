@@ -15,6 +15,7 @@ Here are a few projects that showcase my capabilities across the stack:
 - [E-commerce Platform](link-to-ecommerce-project): A full-stack e-commerce platform built with React.js, Next.js, Django, and SQL.
 - [Social Networking App](link-to-social-app): A social networking application developed with React.js, Flask, and SQLAlchemy.
 - [Portfolio Website](link-to-portfolio): A sleek portfolio website crafted using HTML5, CSS3, and Tailwind CSS.
+- <img src='https://cdn.leonardo.ai/users/d22b0be7-7657-43c9-b075-ed04bfe83087/generations/80aa7496-e5a5-4b17-a3dc-0a650a23bdb3/Default_Web_design_of_GitHub_search_platform_3.jpg' width='100%' />
 
 Explore my repositories to discover more of my work!
 

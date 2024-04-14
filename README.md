@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in a wid
 
 ## About Me
 
-- 💻 Proficient in Frontend technologies like React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, and Bootstrap.
-- 🛠️ Experienced in Backend development using Django, Flask, and Ruby on Rails.
+- 💻 Proficient in Frontend technologies like React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, ReactJS / React_Native Tailwind CSS, and Bootstrap.
+- 🛠️ Experienced in Backend development using C# .NET, Django, Flask, and Ruby on Rails.
 - 📊 Skilled in working with databases including SQL and SQLAlchemy.
 
 ## Featured Projects

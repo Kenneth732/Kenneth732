@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in a wide range of technologies. Here's a glimpse into my skills and projects:
 
 ## About Me
-
+<div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"alt="ecem gokdogan" />
+</div>
 - 💻 Proficient in Frontend technologies like React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, ReactJS / React_Native Tailwind CSS, and Bootstrap.
 - 🛠️ Experienced in Backend development using C# .NET, Django, Flask, and Ruby on Rails.
 - 📊 Skilled in working with databases including SQL and SQLAlchemy.

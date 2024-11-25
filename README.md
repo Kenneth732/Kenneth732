@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in a wid
 
 Here are a few projects that showcase my capabilities across the stack:
 
-- [E-commerce Platform](link-to-ecommerce-project): A full-stack e-commerce platform built with React.js, Next.js, Django, and SQL.
+- [E-commerce Platform](https://shoppify-50wt.onrender.com/): A full-stack e-commerce platform built with React.js, Next.js, Django, and SQL.
 - [Social Networking App](link-to-social-app): A social networking application developed with React.js, Flask, and SQLAlchemy.
-- [Portfolio Website](link-to-portfolio): A sleek portfolio website crafted using HTML5, CSS3, and Tailwind CSS.
+- [Portfolio Website](https://dreamcraft-studios.vercel.app): A sleek portfolio website crafted using HTML5, CSS3, and Tailwind CSS.
 
 ### 🧰 Languages and Tools
 

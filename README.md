@@ -1,6 +1,3 @@
-Here's an ultra-luxury premium version of your GitHub profile with sophisticated styling, elegant presentation, and premium aesthetics:
-
-```markdown
 # ✨ Kenneth Mburu | Elite Full-Stack Architect ✨
 
 <div align="center">

@@ -10,7 +10,7 @@
 ▸ **Visionary Technologist** specializing in high-performance web ecosystems  
 ▸ **Architect** of scalable, elegant solutions across the entire stack  
 ▸ **Connoisseur** of clean code and cutting-edge frameworks  
-
+```
 <div align="center">
   
 ```typescript
